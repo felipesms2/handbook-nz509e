@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://felipesms2.github.io/handbook-nz509e/sitemap.xml
